@@ -1,4 +1,4 @@
-node('Linux-Node') {
+node() {
    def mvnHome
    stage('Preparation') { 
       
